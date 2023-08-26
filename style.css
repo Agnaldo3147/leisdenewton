@@ -123,6 +123,18 @@ aside.referencia > p{
     padding-bottom: 20px;
     margin-bottom: 0px;
 }
+aside > p.newton{
+   padding-top: 0px;
+   margin-top: 0px;
+    text-align: right;
+}
+aside > p.gravidade{
+    text-align: center;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
 
 footer{
     margin-top: 20px;
